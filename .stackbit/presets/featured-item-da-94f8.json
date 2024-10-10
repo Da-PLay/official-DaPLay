@@ -1,0 +1,51 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "da",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "image block"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "20x",
+                "tagline": null,
+                "subtitle": "The Job Stuff",
+                "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/icon2.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Featured icon two",
+                    "elementId": "",
+                    "styles": null
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutralAlt-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "row",
+                        "textAlign": "left",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-da-94f8.png"
+        }
+    ]
+}
