@@ -229,7 +229,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/screenshot_7.png
           altText: Featured icon two
           elementId: ''
         actions: []
