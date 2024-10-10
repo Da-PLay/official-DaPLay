@@ -195,7 +195,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Coming Soon
+    subtitle: Coming Soon!!!
     items:
       - type: FeaturedItem
         title: 500k
