@@ -251,7 +251,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/screenshot_7.png
+          url: /images/screenshot_8.png
           altText: Featured icon three
           elementId: ''
         actions: []
