@@ -188,7 +188,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Money Flap
+      text: Money Flapp
       color: text-primary
       styles:
         self:
