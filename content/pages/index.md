@@ -130,7 +130,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/unnamed.webp
           altText: Featured icon two
           elementId: ''
         actions: []
