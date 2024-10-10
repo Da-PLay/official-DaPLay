@@ -195,7 +195,15 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Coming Soon!!!
+    subtitle: >-
+      Get Ready for Money Flapp - Play, Earn, and Cash Out Soon!Exciting news!
+      Money Flapp is an upcoming bird game that lets you turn your gameplay into
+      real earnings. Collect in-game coins while you play and redeem them for
+      cash, paid directly into your PayPal account. Brought to you by DaPlay, we
+      can offer real rewards by sharing the ad revenue you generate while
+      playing. It’s a win-win: you have fun, we cover the costs, and you get
+      paid! Stay tuned for the launch, and be one of the first to earn while you
+      play with Money Flapp!
     items:
       - type: FeaturedItem
         title: ''
