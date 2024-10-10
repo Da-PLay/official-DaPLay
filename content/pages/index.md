@@ -225,7 +225,7 @@ sections:
         tagline: ''
       - type: FeaturedItem
         title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
