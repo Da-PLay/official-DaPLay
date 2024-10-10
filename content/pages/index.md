@@ -222,7 +222,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        tagline: PLay
+        tagline: ''
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
