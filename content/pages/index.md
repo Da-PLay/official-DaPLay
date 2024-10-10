@@ -194,7 +194,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Comming Soon
+    subtitle: Comming Soon!!!
     items:
       - title: Feature Item One
         tagline: This is the tagline
