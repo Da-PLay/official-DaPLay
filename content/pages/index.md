@@ -166,7 +166,7 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
