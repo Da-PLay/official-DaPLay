@@ -282,7 +282,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Money Flapp
       color: text-dark
       styles:
         self:
