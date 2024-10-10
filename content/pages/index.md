@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: 20x
+        title: ''
         subtitle: ''
         text: ''
         image:
