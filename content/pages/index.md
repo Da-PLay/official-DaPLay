@@ -198,7 +198,7 @@ sections:
     subtitle: Coming Soon!!!
     items:
       - type: FeaturedItem
-        title: Play
+        title: ''
         subtitle: ''
         text: ''
         image:
