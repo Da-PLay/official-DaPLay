@@ -199,7 +199,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: play
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
