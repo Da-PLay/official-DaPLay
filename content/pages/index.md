@@ -125,7 +125,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 20x
+        title: ''
         subtitle: ''
         text: ''
         image:
