@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
+    text: >
       ### **Request Data Deletion**
 
 
@@ -41,16 +41,11 @@ sections:
       #### **Email Address for Data Deletion Requests:**
 
 
-      Send your email to: [support@daplay.eu]()
+      Send your email to: [info@daplay.eu]()
 
 
       We will process your request and confirm the deletion of your data within
       7-10 business days.
-
-
-
-
-
     actions:
       - type: Button
         label: See open positions
