@@ -11,12 +11,46 @@ sections:
         self:
           textAlign: center
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      ### **Request Data Deletion**
+
+
+      If you would like to request the deletion of your data from **Brain
+      Blast**, please follow the instructions below.
+
+
+      #### **How to Request Data Deletion**
+
+
+      You can request the deletion of your data by sending an email to our
+      support team. Please make sure to include the following information in
+      your email:
+
+
+      1.  **Your Username or User ID** associated with your account.
+
+
+      2.  The **email address** you used when creating your account (if
+      applicable).
+
+
+      3.  A request stating that you would like your data deleted from our
+      system.
+
+
+      #### **Email Address for Data Deletion Requests:**
+
+
+      Send your email to: [support@daplay.eu]()
+
+
+      We will process your request and confirm the deletion of your data within
+      7-10 business days.
+
+
+
+
+
     actions:
       - type: Button
         label: See open positions
