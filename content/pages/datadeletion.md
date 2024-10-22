@@ -46,13 +46,7 @@ sections:
 
       We will process your request and confirm the deletion of your data within
       7-10 business days.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
