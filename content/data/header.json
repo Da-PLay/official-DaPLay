@@ -20,7 +20,7 @@
                     "type": "Link",
                     "label": "Data Deletion",
                     "altText": "",
-                    "url": "/",
+                    "url": "/DataDeletion",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
