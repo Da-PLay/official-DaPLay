@@ -73,7 +73,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Meet the tea
       color: text-dark
       styles:
         self:
